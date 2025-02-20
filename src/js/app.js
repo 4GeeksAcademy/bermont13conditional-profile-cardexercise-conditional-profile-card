@@ -53,7 +53,7 @@ function render(variables = {}) {
             }"><i class="fab fa-linkedin"></i></a></li>
             <li><a href="https://instagram.com/${
               variables.instagram == null ? "" : variables.instagram
-            }1"><i class="fab fa-instagram"></i></a></li>
+            }"><i class="fab fa-instagram"></i></a></li>
           </ul>
         </div>
     `;
